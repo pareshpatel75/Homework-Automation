@@ -1,6 +1,8 @@
 package com.Homework;
 
 public class ZeroPositiveNegative {
+    // Given number is Positive,Zero or Negative
+
     public static void main(String[] args) {
         int number = 0;
 

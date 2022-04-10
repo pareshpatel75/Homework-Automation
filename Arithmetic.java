@@ -3,6 +3,8 @@ package com.Homework;
 
 
 public class Arithmetic {
+
+    //Arithmetic Operation
     public static void main(String[] args) {
 
         int  A = 5;

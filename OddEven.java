@@ -1,6 +1,8 @@
 package com.Homework;
 
 public class OddEven {
+    // Odd Or Even by using % Operator
+
     public static void main(String[] args) {
         int number = 101;
 
