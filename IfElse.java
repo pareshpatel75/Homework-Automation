@@ -4,7 +4,7 @@ public class IfElse {
 
     // 18 is the Eligible for vote
     public static void main(String[] args) {
-        int num = 25;
+        int num = 17;
 
         if (num >= 18)
         {
