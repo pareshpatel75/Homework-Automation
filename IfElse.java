@@ -4,9 +4,9 @@ public class IfElse {
 
     // 18 is the Eligible for vote
     public static void main(String[] args) {
-        int num = 17;
+        int num = 18;
 
-        if (num >= 18)
+        if (num <= 17)
         {
             System.out.println("candidate eligible for vote");
 
